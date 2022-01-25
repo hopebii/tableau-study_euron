@@ -17,6 +17,8 @@
 ✔️ [스터디 노션](https://manywisdomhope.notion.site/tableau-b6dd612938f445fdbc0c6244ba735d3d)
 
 
+### 주차별 계획 
+
 |주차|공부내용|인증방식|
 |---|---|---|
 |1.26-2.6| ✔️  [네이버 부캠 강의](https://www.boostcourse.org/ds121)완강 <br/> | 수료증/수강현황인증, 실습한 twb/png 파일 깃허브 업로드  |
