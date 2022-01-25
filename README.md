@@ -12,7 +12,7 @@
 
 ✔️ 주차별 벌금규칙
    * 정기 스터디 시간까지 활동이 마무리 되지 않은 사람
-   * 00원 
+   * 1000원 
 
 ✔️ [스터디 노션](https://manywisdomhope.notion.site/tableau-b6dd612938f445fdbc0c6244ba735d3d)
 
