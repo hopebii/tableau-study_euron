@@ -17,7 +17,7 @@
 ✔️ [스터디 노션](https://manywisdomhope.notion.site/tableau-b6dd612938f445fdbc0c6244ba735d3d)
 
 🟨 스터디 인증 방식
-   * 본인 이름 파일에 
+   * 본인 이름 파일에 ``week N_ 실습파일``, ``week N_수료인증`` 으로 파일 올리기  
 
 ### 주차별 계획 
 
