@@ -10,15 +10,15 @@
 
 ✅ 수료증: 😇
 
-✅ [내용 요약 및 정리 노션 링크] (https://alsoyeon21.notion.site/07cb478b7e1d4fa5a551e81e0db220e8)
+✅ [내용 요약 및 정리 노션 링크](https://alsoyeon21.notion.site/07cb478b7e1d4fa5a551e81e0db220e8)
 
-✅ [실습 파일 업로드용 태블로 퍼블릭 계정] (https://public.tableau.com/app/profile/soyeon.mun)
+✅ [실습 파일 업로드용 태블로 퍼블릭 계정](https://public.tableau.com/app/profile/soyeon.mun)
 
 
 <이수 상황>
 
 CH1|CH2|CH3|CH4|CH5
----|---|---|---|
+---|---|---|---|---
 O|O|O|O|(진행중)
 
 
