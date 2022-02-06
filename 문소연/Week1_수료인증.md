@@ -10,7 +10,7 @@
 
 ✅ [내용 요약 및 정리 노션 링크](https://alsoyeon21.notion.site/07cb478b7e1d4fa5a551e81e0db220e8)
 
-✅ [실습 파일 업로드용 태블로 퍼블릭 계정](https://public.tableau.com/app/profile/soyeon.mun)          
+✅ [실습 파일 업로드용 태블로 퍼블릭 계정](https://public.tableau.com/app/profile/soyeon.mun)       <br /> <br />   
 
 
 
@@ -34,13 +34,14 @@ O|O|O|O|O
 ~~얼른 완성 후 업데이트하겠습니다😥 1000원 안녕...~~       
 
 
-
+<br />
+<br />
 
 
 
 (2022.02.06.)        
 
-
+<br />
 
 강의는 다 들어서 수료 완료하였고, 실습 중 생겼던 자잘한 오류 해결 중!
 
