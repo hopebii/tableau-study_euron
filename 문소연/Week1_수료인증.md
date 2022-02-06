@@ -7,7 +7,7 @@
 <br />
 
 
-✅ [수료증](http://www.boostcourse.org/certificate/A20220206-289362?langCode=ko) → 2022.02.06. 업데이트
+✅ [수료증](http://www.boostcourse.org/certificate/A20220206-289362?langCode=ko) → ❗ 2022.02.06. 업데이트 ❗
 
 ✅ [내용 요약 및 정리 노션 링크](https://alsoyeon21.notion.site/07cb478b7e1d4fa5a551e81e0db220e8)
 
