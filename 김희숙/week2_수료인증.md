@@ -7,16 +7,6 @@ Inflearn: 태블로 레벨UP
   - https://public.tableau.com/views/1_16443976402400/1?:language=ko-KR&:display_count=n&:origin=viz_share_link
   - https://public.tableau.com/views/2LOD/2LOD?:language=ko-KR&:display_count=n&:origin=viz_share_link
 
-### 개인 공부
-Inflearn: 웰컴 투 태블로 월드
-
-- 완강
-![image](https://user-images.githubusercontent.com/40443049/153184178-ebe24e55-e53f-4ab2-bc06-cbb4a118f55b.png)
-
-- tableau public:
-  - https://public.tableau.com/views/_16442142727580/1?:language=ko-KR&:display_count=n&:origin=viz_share_link
-  - https://public.tableau.com/views/_16443891300300/sheet6?:language=ko-KR&:display_count=n&:origin=viz_share_link
-
 
 ### 대시보드 소개/분석 해오기 
 #### Current vs Comparison Periods
@@ -30,3 +20,13 @@ Inflearn: 웰컴 투 태블로 월드
   - 최우수상: 뭘 좋아할지 몰라서 다 준비했어... [사용자 맞춤형 재정데이터 시각화] (link: https://dacon.io/competitions/official/235767/codeshare/3288)
   - 우수상: [tableau] 대한민국 재정 톺아보기 (link: https://dacon.io/competitions/official/235767/codeshare/3299)
   - 우수상: 누구나 볼 수 있는, 이게 바로 재정EASY~! (link: https://dacon.io/competitions/official/235767/codeshare/3259)
+
+### 개인 공부
+Inflearn: 웰컴 투 태블로 월드
+
+- 완강
+![image](https://user-images.githubusercontent.com/40443049/153184178-ebe24e55-e53f-4ab2-bc06-cbb4a118f55b.png)
+
+- tableau public:
+  - https://public.tableau.com/views/_16442142727580/1?:language=ko-KR&:display_count=n&:origin=viz_share_link
+  - https://public.tableau.com/views/_16443891300300/sheet6?:language=ko-KR&:display_count=n&:origin=viz_share_link
