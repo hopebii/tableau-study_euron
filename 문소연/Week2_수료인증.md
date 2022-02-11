@@ -7,7 +7,7 @@
 > https://www.inflearn.com/course/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%A4%91%EA%B8%89/dashboard
 
 
-✅ [공부 인증_내용 요약 및 정리 노션 링크](https://alsoyeon21.notion.site/2-1c2c9ac961f64623b6e72c811fe5e2c3)
+✅ [공부 인증_노션 링크](https://alsoyeon21.notion.site/2-1c2c9ac961f64623b6e72c811fe5e2c3)
 
 <br />
 
@@ -18,4 +18,4 @@
 > https://public.tableau.com/app/profile/one.campaign/viz/TheToughestPlacesforaGirltoGetanEducation2017_0/TheToughestPlacesforaGirl
 
 
-✅ [분석 요약 및 정리 노션 링크](https://alsoyeon21.notion.site/2-7185df3cbb634546843a5d95901e5660)
+✅ [태블로 샘플 분석_노션 링크](https://alsoyeon21.notion.site/2-7185df3cbb634546843a5d95901e5660)
