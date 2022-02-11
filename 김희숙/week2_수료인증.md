@@ -9,6 +9,11 @@ Inflearn: 태블로 레벨UP
 
 
 ### 대시보드 소개/분석 해오기 
+#### BLOCKBUSTER: Analyzing the 10 Highest Grossing Actors of All Time
+![image](https://user-images.githubusercontent.com/40443049/153590872-6e4a6b74-9cd0-43f6-85e5-85309e738c7e.png)
+(link: https://public.tableau.com/app/profile/osmguy/viz/BLOCKBUSTER/BLOCKBUSTER)
+- 분석: https://literate-lemur-c74.notion.site/2-6ad302a3ec6d4a30bc3553a2af9df69c
+
 #### Current vs Comparison Periods
 ![image](https://user-images.githubusercontent.com/40443049/153185526-ddbd1aee-58d5-4c3d-afb6-8169be4e8629.png)
 (link: https://public.tableau.com/app/profile/bethany3112/viz/CurrentvsComparisonPeriod-visualisingthecalcs/ExampleBusinessViews)
