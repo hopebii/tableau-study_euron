@@ -11,7 +11,6 @@
 
 <br />
 
----
 ## 태블로 샘플 분석
 
 > 원본 태블로_The Toughest Places for a Girl to Get an Education 2017
