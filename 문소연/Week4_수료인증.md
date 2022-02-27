@@ -1,4 +1,4 @@
-# Week4_수료 인증 
+# Week4_인증 
 
 ## 태블로 대시보드 기획 및 제작
 
@@ -7,4 +7,9 @@
 > (eLearningDashboard 필사 작업 참고하면서 병행)
 
 <br />
-✅ [대시보드 최종 결과물](수정 중)
+✅ [대시보드 최종 결과물](https://public.tableau.com/app/profile/soyeon.mun/viz/EURON4_/Main)
+
+
+
+<br />
+~~생각보다 태블로 퍼블릭 상에서 예쁘게 보이지는 않는 듯😇~~
