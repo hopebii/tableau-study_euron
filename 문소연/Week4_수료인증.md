@@ -4,7 +4,7 @@
 
 > LMS(Learning Management System) 로그 데이터 시각화를 통한 A 대학교 학생들의 온라인 학습 행태 분석
 > <br />
-> eLearningDashboard 필사 작업 참고하면서 병행
+> (eLearningDashboard 필사 작업 참고하면서 병행)
 
 <br />
 ✅ [대시보드 최종 결과물](수정 중)
