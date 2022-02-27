@@ -7,10 +7,10 @@
 > (eLearningDashboard 필사 작업 참고하면서 병행)
 
 <br />
-✅ [대시보드 최종 결과물](https://public.tableau.com/app/profile/soyeon.mun/viz/EURON4_/Main)
+✅ 대시보드 최종 결과물 https://public.tableau.com/app/profile/soyeon.mun/viz/EURON4_/Main
 
 
-
+<br />
 <br />
 
 ~~생각보다 태블로 퍼블릭 상에서 예쁘게 보이지는 않는 듯😇~~
